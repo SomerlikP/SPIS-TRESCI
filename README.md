@@ -1,21 +1,21 @@
 # SPIS REPOZYTORIÓW | Paweł Somerlik 3 TI T | TEB Edukacja
 
-Desktopowe i Mobilne - https://github.com/SomerlikP/Aplikacje-Desktopowe-i-Mobilne
+Desktopowe i Mobilne (hidden) - https://github.com/SomerlikP/Aplikacje-Desktopowe-i-Mobilne
 
-Witryny i Aplikacje Internetowe - https://github.com/SomerlikP/Witryny-i-Aplikacje-Internetowe
+Witryny i Aplikacje Internetowe (hidden) - https://github.com/SomerlikP/Witryny-i-Aplikacje-Internetowe
 
-Lokalne Systemy Baz Danych - https://github.com/SomerlikP/Lokalne-Systemy-Baz-Danych
+Lokalne Systemy Baz Danych (hidden) - https://github.com/SomerlikP/Lokalne-Systemy-Baz-Danych
 
-Tworzenie Stron i Aplikacji Internetowych - https://github.com/SomerlikP/Tworzenie-Stron-i-Aplikacji-Internetowych
+Tworzenie Stron i Aplikacji Internetowych (hidden) - https://github.com/SomerlikP/Tworzenie-Stron-i-Aplikacji-Internetowych
 
-Informatyka - https://github.com/SomerlikP/Informatyka
-
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-my HTML - https://github.com/SomerlikP/my-HTML
+Informatyka (hidden) - https://github.com/SomerlikP/Informatyka
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-SuperMario exe - https://github.com/SomerlikP/SuperMario-exe
+my HTML (hidden) - https://github.com/SomerlikP/my-HTML
 
-SuperMario original - https://github.com/SomerlikP/SuperMario-original
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+SuperMario exe (shown) - https://github.com/SomerlikP/SuperMario-exe
+
+SuperMario original (hidden) - https://github.com/SomerlikP/SuperMario-original
