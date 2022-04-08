@@ -1,4 +1,4 @@
-# SPIS-TRESCI
+# SPIS REPOZYTORIÓW
 
 Desktopowe i Mobilne - https://github.com/SomerlikP/Aplikacje-Desktopowe-i-Mobilne
 
