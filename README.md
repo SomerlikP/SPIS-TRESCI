@@ -1,4 +1,4 @@
-# SPIS REPOZYTORIÓW
+# SPIS REPOZYTORIÓW | Paweł Somerlik 3 TI T | TEB Edukacja
 
 Desktopowe i Mobilne - https://github.com/SomerlikP/Aplikacje-Desktopowe-i-Mobilne
 
