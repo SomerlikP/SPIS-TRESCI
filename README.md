@@ -10,7 +10,7 @@ Tworzenie Stron i Aplikacji Internetowych - https://github.com/SomerlikP/Tworzen
 
 Informatyka - https://github.com/SomerlikP/Informatyka
 
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 my HTML - https://github.com/SomerlikP/my-HTML
 
