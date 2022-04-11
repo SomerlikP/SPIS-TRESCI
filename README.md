@@ -4,7 +4,9 @@ Aplikacje Desktopowe i Mobilne p.Gembalczyk (hidden) - https://github.com/Somerl
 
 Tworzenie i Administrowanie Bazami Danych p.Gembalczyk (hidden) - https://github.com/SomerlikP/Tworzenie-i-Administrowanie-Bazami-Danych
 
+
 Tworzenie Stron i Aplikacji Internetowych p.Rymarczuk (hidden) - https://github.com/SomerlikP/Tworzenie-Stron-i-Aplikacji-Internetowych
+
 
 Witryny i Aplikacje Internetowe p.Radejewski (hidden) - https://github.com/SomerlikP/Witryny-i-Aplikacje-Internetowe
 
