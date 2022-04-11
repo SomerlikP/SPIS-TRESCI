@@ -14,6 +14,8 @@ Informatyka p.Włoszczycka (hidden) - https://github.com/SomerlikP/Informatyka
 
 my HTML (hidden) - https://github.com/SomerlikP/my-HTML
 
+my JavaScript (hidden) - https://github.com/SomerlikP/my-JavaScript
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 SuperMario exe (shown) - https://github.com/SomerlikP/SuperMario-exe
