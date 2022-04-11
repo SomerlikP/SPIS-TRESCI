@@ -14,7 +14,7 @@ Informatyka p.Włoszczycka (hidden) - https://github.com/SomerlikP/Informatyka
 
 my HTML (hidden) - https://github.com/SomerlikP/my-HTML
 
-my JavaScript (hidden) - https://github.com/SomerlikP/my-JavaScript
+my Java Script (hidden) - https://github.com/SomerlikP/my-JavaScript
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
