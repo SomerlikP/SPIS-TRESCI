@@ -26,4 +26,4 @@ SuperMario exe (shown) - https://github.com/SomerlikP/SuperMario-exe
 
 SuperMario original code (hidden) - https://github.com/SomerlikP/SuperMario-original-code
 
-SuperMario *.img - https://github.com/SomerlikP/SuperMario-img
+SuperMario *.img (hidden) - https://github.com/SomerlikP/SuperMario-img
