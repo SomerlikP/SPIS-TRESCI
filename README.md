@@ -16,6 +16,10 @@ my HTML (hidden) - https://github.com/SomerlikP/my-HTML
 
 my Java Script (hidden) - https://github.com/SomerlikP/my-JavaScript
 
+my PHP (hidden) - https://github.com/SomerlikP/my-PHP
+
+my SQL (hidden) - https://github.com/SomerlikP/my-SQL
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 SuperMario exe (shown) - https://github.com/SomerlikP/SuperMario-exe
