@@ -24,4 +24,4 @@ my SQL (hidden) - https://github.com/SomerlikP/my-SQL
 
 SuperMario exe (shown) - https://github.com/SomerlikP/SuperMario-exe
 
-SuperMario original (hidden) - https://github.com/SomerlikP/SuperMario-original
+SuperMario original code (hidden) - https://github.com/SomerlikP/SuperMario-original-code
