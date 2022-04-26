@@ -20,6 +20,8 @@ my PHP (hidden) - https://github.com/SomerlikP/my-PHP
 
 my SQL (hidden) - https://github.com/SomerlikP/my-SQL
 
+całe gotowe projekty - https://github.com/SomerlikP/cale-gotowe-projekty
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 SuperMario exe (shown) - https://github.com/SomerlikP/SuperMario-exe
