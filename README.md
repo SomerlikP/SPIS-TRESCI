@@ -20,6 +20,8 @@ my PHP (hidden) - https://github.com/SomerlikP/my-PHP
 
 my SQL (hidden) - https://github.com/SomerlikP/my-SQL
 
+kradzione - https://github.com/SomerlikP/kradzione
+
 całe gotowe projekty (hidden) - https://github.com/SomerlikP/cale-gotowe-projekty
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
