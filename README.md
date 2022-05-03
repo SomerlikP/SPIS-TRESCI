@@ -22,6 +22,8 @@ my SQL (hidden) - https://github.com/SomerlikP/my-SQL
 
 my python - https://github.com/SomerlikP/my-python
 
+my C++ - https://github.com/SomerlikP/my-C-plus-plus
+
 kradzione kody - https://github.com/SomerlikP/kradzione
 
 całe gotowe projekty (hidden) - https://github.com/SomerlikP/cale-gotowe-projekty
