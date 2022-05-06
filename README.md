@@ -22,11 +22,11 @@ my PHP (hidden) - https://github.com/SomerlikP/my-PHP
 
 my SQL (hidden) - https://github.com/SomerlikP/my-SQL
 
-my python - https://github.com/SomerlikP/my-python
+my python (hidden) - https://github.com/SomerlikP/my-python
 
-my C++ - https://github.com/SomerlikP/my-C-plus-plus
+my C++ (hidden) - https://github.com/SomerlikP/my-C-plus-plus
 
-kradzione kody - https://github.com/SomerlikP/kradzione
+kradzione kody (hidden) - https://github.com/SomerlikP/kradzione
 
 całe gotowe projekty (hidden) - https://github.com/SomerlikP/cale-gotowe-projekty
 
