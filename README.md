@@ -49,7 +49,7 @@ całe gotowe projekty (hidden) - https://github.com/SomerlikP/cale-gotowe-projek
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-SuperMario exe (shown) - https://github.com/SomerlikP/SuperMario-exe
+SuperMario exe (hidden) - https://github.com/SomerlikP/SuperMario-exe
 
 SuperMario original code (hidden) - https://github.com/SomerlikP/SuperMario-original-code
 
