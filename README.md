@@ -20,6 +20,8 @@ my CSS (hidden) - https://github.com/SomerlikP/my-CSS
 
 my Java Script (hidden) - https://github.com/SomerlikP/my-JavaScript
 
+Java Script kurs - https://github.com/SomerlikP/Java-Script-kurs
+
 my PHP (hidden) - https://github.com/SomerlikP/my-PHP
 
 my SQL (hidden) - https://github.com/SomerlikP/my-SQL
