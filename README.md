@@ -25,7 +25,7 @@ my HTML (hidden) - https://github.com/SomerlikP/my-HTML
 
 my CSS (hidden) - https://github.com/SomerlikP/my-CSS
 
-  CSS kurs (hidden) - https://github.com/SomerlikP/CSS-kurs
+  `CSS kurs (hidden) - https://github.com/SomerlikP/CSS-kurs
 
 my Java Script (hidden) - https://github.com/SomerlikP/my-JavaScript
 
