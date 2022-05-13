@@ -13,18 +13,21 @@ Witryny i Aplikacje Internetowe p.Radejewski (hidden) - https://github.com/Somer
 Informatyka p.Włoszczycka (hidden) - https://github.com/SomerlikP/Informatyka
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
+---
 my HTML (hidden) - https://github.com/SomerlikP/my-HTML
 
   HTML kurs (hidden) - https://github.com/SomerlikP/HTML-kurs
+---
 
 my CSS (hidden) - https://github.com/SomerlikP/my-CSS
 
   CSS kurs (hidden) - https://github.com/SomerlikP/CSS-kurs
+---
 
 my Java Script (hidden) - https://github.com/SomerlikP/my-JavaScript
 
   Java Script kurs (hidden) - https://github.com/SomerlikP/Java-Script-kurs
+---
 
 my PHP (hidden) - https://github.com/SomerlikP/my-PHP
 
