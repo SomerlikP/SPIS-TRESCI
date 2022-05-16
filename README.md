@@ -1,6 +1,6 @@
 # SPIS REPOZYTORIÓW | Paweł Somerlik
 
-3 TI T - TEB Edukcja:
+3 TI T - TEB Ubikacja:
 
 
 Aplikacje Desktopowe i Mobilne p.Gembalczyk (hidden) - https://github.com/SomerlikP/Aplikacje-Desktopowe-i-Mobilne
