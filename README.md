@@ -25,15 +25,15 @@ Defender - https://github.com/SomerlikP/defender
 
 my HTML (hidden) - https://github.com/SomerlikP/my-HTML
 
-•HTML kurs (hidden) - https://github.com/SomerlikP/HTML-kurs
+• HTML kurs (hidden) - https://github.com/SomerlikP/HTML-kurs
 
 my CSS (hidden) - https://github.com/SomerlikP/my-CSS
 
-•CSS kurs (hidden) - https://github.com/SomerlikP/CSS-kurs
+• CSS kurs (hidden) - https://github.com/SomerlikP/CSS-kurs
 
 my Java Script (hidden) - https://github.com/SomerlikP/my-JavaScript
 
-•Java Script kurs (hidden) - https://github.com/SomerlikP/Java-Script-kurs
+• Java Script kurs (hidden) - https://github.com/SomerlikP/Java-Script-kurs
 
 my PHP (hidden) - https://github.com/SomerlikP/my-PHP
 
