@@ -1,23 +1,7 @@
-my HTML (hidden) - https://github.com/SomerlikP/my-HTML
+SuperMario exe (hidden) - https://github.com/SomerlikP/SuperMario-exe
 
-▶ HTML kurs (hidden) - https://github.com/SomerlikP/HTML-kurs
+SuperMario original code (hidden) - https://github.com/SomerlikP/SuperMario-original-code
 
-my CSS (hidden) - https://github.com/SomerlikP/my-CSS
+SuperMario modificated code (hidden) - https://github.com/SomerlikP/SuperMario-modificated-code
 
-▶ CSS kurs (hidden) - https://github.com/SomerlikP/CSS-kurs
-
-my Java Script (hidden) - https://github.com/SomerlikP/my-JavaScript
-
-▶ Java Script kurs (hidden) - https://github.com/SomerlikP/Java-Script-kurs
-
-my PHP (hidden) - https://github.com/SomerlikP/my-PHP
-
-my SQL (hidden) - https://github.com/SomerlikP/my-SQL
-
-my python (hidden) - https://github.com/SomerlikP/my-python
-
-my C++ (hidden) - https://github.com/SomerlikP/my-C-plus-plus
-
-kradzione kody (hidden) - https://github.com/SomerlikP/kradzione
-
-całe gotowe projekty (hidden) - https://github.com/SomerlikP/cale-gotowe-projekty
+SuperMario *.img (hidden) - https://github.com/SomerlikP/SuperMario-img
