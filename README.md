@@ -1,15 +1,23 @@
-Aplikacje Desktopowe i Mobilne p.Gembalczyk (hidden) - https://github.com/SomerlikP/Aplikacje-Desktopowe-i-Mobilne
+my HTML (hidden) - https://github.com/SomerlikP/my-HTML
 
+▶ HTML kurs (hidden) - https://github.com/SomerlikP/HTML-kurs
 
-Tworzenie i Administrowanie Bazami Danych p.Gembalczyk (hidden) - https://github.com/SomerlikP/Tworzenie-i-Administrowanie-Bazami-Danych
+my CSS (hidden) - https://github.com/SomerlikP/my-CSS
 
+▶ CSS kurs (hidden) - https://github.com/SomerlikP/CSS-kurs
 
-Tworzenie Stron i Aplikacji Internetowych p.Rymarczuk (hidden) - https://github.com/SomerlikP/Tworzenie-Stron-i-Aplikacji-Internetowych
+my Java Script (hidden) - https://github.com/SomerlikP/my-JavaScript
 
+▶ Java Script kurs (hidden) - https://github.com/SomerlikP/Java-Script-kurs
 
-Witryny i Aplikacje Internetowe p.Radejewski (hidden) - https://github.com/SomerlikP/Witryny-i-Aplikacje-Internetowe
+my PHP (hidden) - https://github.com/SomerlikP/my-PHP
 
+my SQL (hidden) - https://github.com/SomerlikP/my-SQL
 
-Informatyka p.Włoszczycka (hidden) - https://github.com/SomerlikP/Informatyka
+my python (hidden) - https://github.com/SomerlikP/my-python
 
-Defender - https://github.com/SomerlikP/defender
+my C++ (hidden) - https://github.com/SomerlikP/my-C-plus-plus
+
+kradzione kody (hidden) - https://github.com/SomerlikP/kradzione
+
+całe gotowe projekty (hidden) - https://github.com/SomerlikP/cale-gotowe-projekty
