@@ -1,1 +1,3 @@
-# SPIS REPOZYTORIÓW | Paweł Somerlik - TEB Ubikacja
+||||||||||||||||||||||||||||||||||||||||||||||||||||
+| SPIS REPOZYTORIÓW | Paweł Somerlik - TEB Ubikacja|
+||||||||||||||||||||||||||||||||||||||||||||||||||||
