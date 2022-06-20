@@ -7,5 +7,5 @@ SuperMario modificated code (hidden) - https://github.com/SomerlikP/SuperMario-m
 SuperMario exe (hidden) - https://github.com/SomerlikP/SuperMario-exe
 ***
 
-SuperMario *.img (hidden) - https://github.com/SomerlikP/SuperMario-img
+SuperMario *.img do modyficated (hidden) - https://github.com/SomerlikP/SuperMario-img
 ***
