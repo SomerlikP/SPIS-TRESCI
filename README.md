@@ -1,3 +1,10 @@
+***
+4 TI T
+---
+
+***
+
+***
 3 TI T
 ---
 ***
@@ -13,11 +20,3 @@ Witryny i Aplikacje Internetowe p.Radejewski (hidden) - https://github.com/Somer
 Informatyka p.Włoszczycka (hidden) - https://github.com/SomerlikP/Informatyka
 
 Defender - https://github.com/SomerlikP/defender
-
-***
-4 TI T
----
-
-***
-
-***
