@@ -2,9 +2,9 @@
 --
 ***
 
-Witryny i aplikacje internetowe (hidden) - https://github.com/SomerlikP/Witryny-i-aplikacje-internetowe2
+Witryny i Aplikacje Internetowe (hidden) - https://github.com/SomerlikP/Witryny-i-aplikacje-internetowe2
 
-Aplikacje desktopowe i mobilne (hidden) - https://github.com/SomerlikP/Aplikacje-desktopowe-i-mobilne2
+Aplikacje Desktopowe i Mobilne (hidden) - https://github.com/SomerlikP/Aplikacje-desktopowe-i-mobilne2
 
 3 TI T
 --
