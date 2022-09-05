@@ -4,6 +4,8 @@
 
 Witryny i aplikacje internetowe - https://github.com/SomerlikP/Witryny-i-aplikacje-internetowe2
 
+Aplikacje desktopowe i mobilne - https://github.com/SomerlikP/Aplikacje-desktopowe-i-mobilne2
+
 3 TI T
 --
 ***
