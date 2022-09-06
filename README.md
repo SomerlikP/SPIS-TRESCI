@@ -6,6 +6,8 @@ Witryny i Aplikacje Internetowe (hidden) - https://github.com/SomerlikP/Witryny-
 
 Aplikacje Desktopowe i Mobilne (hidden) - https://github.com/SomerlikP/Aplikacje-desktopowe-i-mobilne2
 
+Lokalne systemy baz danych + Tworzenie i administrowanie bazami danych - https://github.com/SomerlikP/Lokalne-Systemy-Baz-Danych-AND-Tworzenie-i-Administrowanie-Bazami-Danych
+
 3 TI T
 --
 ***
