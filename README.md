@@ -8,7 +8,7 @@ Aplikacje Desktopowe i Mobilne (hidden) - https://github.com/SomerlikP/Aplikacje
 
 Lokalne systemy baz danych + Tworzenie i administrowanie bazami danych - https://github.com/SomerlikP/Lokalne-Systemy-Baz-Danych-AND-Tworzenie-i-Administrowanie-Bazami-Danych
 
-SQL-base - https://github.com/SomerlikP/SQL-base
+SQL1 base commands - https://github.com/SomerlikP/SQL-base
 
 3 TI T
 --
