@@ -2,15 +2,17 @@
 --
 ***
 
-Witryny i Aplikacje Internetowe (hidden) - https://github.com/SomerlikP/Witryny-i-aplikacje-internetowe2
+Witryny i Aplikacje Internetowe p. Popek (hidden) - https://github.com/SomerlikP/Witryny-i-aplikacje-internetowe2
 
 Aplikacje Desktopowe i Mobilne p. Popek (hidden) - https://github.com/SomerlikP/Aplikacje-desktopowe-i-mobilne2
 
-Tworzenie stron i Aplikacji Internetowych (hidden) - https://github.com/SomerlikP/-Tworzenie-stron-i-Aplikacji-Internetowych
+Tworzenie Stron i Aplikacji Internetowych p. Fecek (hidden) - https://github.com/SomerlikP/-Tworzenie-stron-i-Aplikacji-Internetowych
 
-Lokalne systemy baz danych + Tworzenie i administrowanie bazami danych p. Gembalczyk (hidden) - https://github.com/SomerlikP/Lokalne-Systemy-Baz-Danych-AND-Tworzenie-i-Administrowanie-Bazami-Danych
+Lokalne systemy baz danych + Tworzenie i Administrowanie Bazami Danych p. Gembalczyk (hidden) - https://github.com/SomerlikP/Lokalne-Systemy-Baz-Danych-AND-Tworzenie-i-Administrowanie-Bazami-Danych
 
-SQL base commands - https://github.com/SomerlikP/SQL-base
+PRZYDATNE:
+**
+SQL Base Commands - https://github.com/SomerlikP/SQL-base
 
 3 TI T
 --
