@@ -11,7 +11,6 @@ Tworzenie Stron i Aplikacji Internetowych p. Fecek (hidden) - https://github.com
 Lokalne systemy baz danych + Tworzenie i Administrowanie Bazami Danych p. Gembalczyk (hidden) - https://github.com/SomerlikP/Lokalne-Systemy-Baz-Danych-AND-Tworzenie-i-Administrowanie-Bazami-Danych
 
 PRZYDATNE:
-**
 SQL Base Commands - https://github.com/SomerlikP/SQL-base
 
 3 TI T
