@@ -6,7 +6,7 @@ https://github.com/SomerlikP/Witryny-i-aplikacje-internetowe2/tree/dodawanie-rek
 
 Witryny i Aplikacje Internetowe p. Rymarczuk (hidden) - https://github.com/SomerlikP/Witryny-i-aplikacje-internetowe2
 
-Aplikacje Desktopowe i Mobilne p. Gembalczyk (hidden) - https://github.com/SomerlikP/Aplikacje-desktopowe-i-mobilne2
+Aplikacje Desktopowe i Mobilne 2 p. Gembalczyk (hidden) - https://github.com/SomerlikP/Aplikacje-desktopowe-i-mobilne2
 
 Tworzenie Stron i Aplikacji Internetowych p. Janowski (hidden) - https://github.com/SomerlikP/-Tworzenie-stron-i-Aplikacji-Internetowych
 
