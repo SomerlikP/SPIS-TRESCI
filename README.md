@@ -8,7 +8,7 @@ Witryny i Aplikacje Internetowe p. Rymarczuk (hidden) - https://github.com/Somer
 
 Aplikacje Desktopowe i Mobilne 2 p. Gembalczyk (hidden) - https://github.com/SomerlikP/Aplikacje-desktopowe-i-mobilne2
 
-Tworzenie Stron i Aplikacji Internetowych p. Janowski (hidden) - https://github.com/SomerlikP/-Tworzenie-stron-i-Aplikacji-Internetowych
+Tworzenie Stron i Aplikacji Internetowych p. Janowski (hidden) - https://github.com/SomerlikP/Tworzenie-stron-i-Aplikacji-Internetowych
 
 Lokalne systemy baz danych + Tworzenie i Administrowanie Bazami Danych p. Gembalczyk (hidden) - https://github.com/SomerlikP/Lokalne-Systemy-Baz-Danych-AND-Tworzenie-i-Administrowanie-Bazami-Danych
 
