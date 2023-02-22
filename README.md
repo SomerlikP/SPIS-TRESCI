@@ -11,11 +11,11 @@ Sztuczna inteligencja (hiden) - https://github.com/SomerlikP/AI
 ---
 
 Witryny i Aplikacje Internetowe 2 p. Rymarczuk (hidden) - https://github.com/SomerlikP/Witryny-i-aplikacje-internetowe2
-<br>
+<br><br>
 Aplikacje Desktopowe i Mobilne 2 p. Gembalczyk (hidden) - https://github.com/SomerlikP/Aplikacje-desktopowe-i-mobilne2
-<br>
+<br><br>
 Tworzenie Stron i Aplikacji Internetowych p. Janowski (hidden) - https://github.com/SomerlikP/Tworzenie-stron-i-Aplikacji-Internetowych
-<br>
+<br><br>
 Lokalne systemy baz danych + Tworzenie i Administrowanie Bazami Danych p. Gembalczyk (hidden) - https://github.com/SomerlikP/Lokalne-Systemy-Baz-Danych-AND-Tworzenie-i-Administrowanie-Bazami-Danych
 
 ***
@@ -24,7 +24,7 @@ Lokalne systemy baz danych + Tworzenie i Administrowanie Bazami Danych p. Gembal
 ---
 
 Aplikacje Desktopowe i Mobilne p.Gembalczyk (hidden) - https://github.com/SomerlikP/Aplikacje-Desktopowe-i-Mobilne
-
+<br><br>
 Tworzenie i Administrowanie Bazami Danych p.Gembalczyk (hidden) - https://github.com/SomerlikP/Tworzenie-i-Administrowanie-Bazami-Danych
-
+<br><br>
 Witryny i Aplikacje Internetowe p.radajewski (hidden) - https://github.com/SomerlikP/Witryny-i-Aplikacje-Internetowe
