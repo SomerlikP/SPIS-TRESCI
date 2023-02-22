@@ -7,6 +7,12 @@ Sztuczna inteligencja (hiden) - https://github.com/SomerlikP/AI
 
 
 
+5 TI T
+---
+***
+
+
+
 4 TI T
 ---
 
