@@ -1,11 +1,7 @@
-Sztuczna inteligencja (hiden) - https://github.com/SomerlikP/AI
-***
-
-
-
 PRZYDATNE:
 <br>
 SQL Base Commands - https://github.com/SomerlikP/SQL-base
+Sztuczna inteligencja (hiden) - https://github.com/SomerlikP/AI
 ***
 
 
