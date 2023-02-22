@@ -15,6 +15,8 @@ PRZYDATNE:
 SQL Base Commands - https://github.com/SomerlikP/SQL-base
 ***
 
+
+
 3 TI T
 ---
 
