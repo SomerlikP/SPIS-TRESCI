@@ -1,9 +1,15 @@
 Sztuczna inteligencja (hiden) - https://github.com/SomerlikP/AI
----
+***
+
+
+
 PRZYDATNE:
 ---
 SQL Base Commands - https://github.com/SomerlikP/SQL-base
 ***
+
+
+
 4 TI T
 ---
 
@@ -14,9 +20,8 @@ Aplikacje Desktopowe i Mobilne 2 p. Gembalczyk (hidden) - https://github.com/Som
 Tworzenie Stron i Aplikacji Internetowych p. Janowski (hidden) - https://github.com/SomerlikP/Tworzenie-stron-i-Aplikacji-Internetowych
 
 Lokalne systemy baz danych + Tworzenie i Administrowanie Bazami Danych p. Gembalczyk (hidden) - https://github.com/SomerlikP/Lokalne-Systemy-Baz-Danych-AND-Tworzenie-i-Administrowanie-Bazami-Danych
+
 ***
-
-
 
 3 TI T
 ---
