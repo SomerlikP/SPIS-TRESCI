@@ -1,2 +1,2 @@
-**
+---
 SPIS REPOZYTORIÓW
