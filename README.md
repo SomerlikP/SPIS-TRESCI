@@ -16,7 +16,7 @@ SQL Base Commands - https://github.com/SomerlikP/SQL-base
 ***
 
 3 TI T
---
+---
 
 Aplikacje Desktopowe i Mobilne p.Gembalczyk (hidden) - https://github.com/SomerlikP/Aplikacje-Desktopowe-i-Mobilne
 
