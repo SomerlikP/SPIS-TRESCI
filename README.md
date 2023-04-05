@@ -19,7 +19,7 @@ beta
 4 TI T
 ---
 
-Witryny i Aplikacje Internetowe 2 p. Rymarczuk (hidden) - https://github.com/SomerlikP/Witryny-i-aplikacje-internetowe2
+Witryny i Aplikacje Internetowe 2 p. Popek (hidden) - https://github.com/SomerlikP/Witryny-i-aplikacje-internetowe2
 <br><br>
 Aplikacje Desktopowe i Mobilne 2 p. Gembalczyk (hidden) - https://github.com/SomerlikP/Aplikacje-desktopowe-i-mobilne2
 <br><br>
