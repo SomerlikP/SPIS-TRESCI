@@ -1,8 +1,6 @@
 PRZYDATNE:
 <br>
 SQL Base Commands - https://github.com/SomerlikP/SQL-base
-<br>
-Sztuczna inteligencja (hiden) - https://github.com/SomerlikP/AI
 ***
 
 
