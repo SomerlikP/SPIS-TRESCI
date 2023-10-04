@@ -16,4 +16,4 @@ lokalne systemy baz danych p.Gembalczyk (hidden) - https://github.com/SomerlikP/
 
 ***
 
-https://github.com/SomerlikP/Aplikacje-desktopowe-i-mobilne-5ti 0.Gembalczyk (hidden) - https://github.com/SomerlikP/Aplikacje-desktopowe-i-mobilne-5ti
+Aplikacje desktopowe i mobilne p.Gembalczyk (hidden) - https://github.com/SomerlikP/Aplikacje-desktopowe-i-mobilne-5ti
